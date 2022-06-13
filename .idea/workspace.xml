@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02a9be6d-78ec-4af8-9040-23e869710847" name="Changes" comment="private set adicionado">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/Conta.kt" afterDir="false" />
+    <list default="true" id="02a9be6d-78ec-4af8-9040-23e869710847" name="Changes" comment="create a conta class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/Pessoa.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654992173702</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create a conta class">
+      <created>1654995304009</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654995304009</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +103,7 @@
     <MESSAGE value="correcao" />
     <MESSAGE value="classe Pessoa" />
     <MESSAGE value="private set adicionado" />
-    <option name="LAST_COMMIT_MESSAGE" value="private set adicionado" />
+    <MESSAGE value="create a conta class" />
+    <option name="LAST_COMMIT_MESSAGE" value="create a conta class" />
   </component>
 </project>
