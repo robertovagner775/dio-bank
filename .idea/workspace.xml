@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02a9be6d-78ec-4af8-9040-23e869710847" name="Changes" comment="craição class enum e testes">
+    <list default="true" id="02a9be6d-78ec-4af8-9040-23e869710847" name="Changes" comment="instanciando enum pf e pj">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/clienteTipo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/clienteTipo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/testes/testClenteTipoEnum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/testes/testClenteTipoEnum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/Pessoa.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin Enum" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -38,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TestClenteTipoEnumKt">
+  <component name="RunManager" selected="Kotlin.TestPessoaKt">
     <configuration name="PessoaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinovation.PessoaKt" />
       <module name="dio-bank" />
@@ -53,8 +52,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestPessoaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinovation.testes.TestPessoaKt" />
+      <module name="dio-bank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestPessoaKt" />
         <item itemvalue="Kotlin.TestClenteTipoEnumKt" />
         <item itemvalue="Kotlin.PessoaKt" />
       </list>
@@ -111,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655164661556</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="instanciando enum pf e pj">
+      <created>1655165668455</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655165668455</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +146,7 @@
     <MESSAGE value="create a conta class" />
     <MESSAGE value="create a conta data class" />
     <MESSAGE value="craição class enum e testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="craição class enum e testes" />
+    <MESSAGE value="instanciando enum pf e pj" />
+    <option name="LAST_COMMIT_MESSAGE" value="instanciando enum pf e pj" />
   </component>
 </project>
