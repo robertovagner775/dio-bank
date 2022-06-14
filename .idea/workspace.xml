@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02a9be6d-78ec-4af8-9040-23e869710847" name="Changes" comment="create a conta data class">
+    <list default="true" id="02a9be6d-78ec-4af8-9040-23e869710847" name="Changes" comment="craição class enum e testes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/clienteTipo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/clienteTipo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/testes/testClenteTipoEnum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/testes/testClenteTipoEnum.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655162367864</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="craição class enum e testes">
+      <created>1655164661556</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655164661556</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +131,7 @@
     <MESSAGE value="private set adicionado" />
     <MESSAGE value="create a conta class" />
     <MESSAGE value="create a conta data class" />
-    <option name="LAST_COMMIT_MESSAGE" value="create a conta data class" />
+    <MESSAGE value="craição class enum e testes" />
+    <option name="LAST_COMMIT_MESSAGE" value="craição class enum e testes" />
   </component>
 </project>
