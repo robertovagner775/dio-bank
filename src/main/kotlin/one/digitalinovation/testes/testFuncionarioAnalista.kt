@@ -10,7 +10,7 @@ fun main(){
     //instanciando
     val luiz = Analista(nome = "Luiz Garcia", cpf = "222-222-222-22" ,salario = 1220.00)
 
-    println(imprimeRelatorio(luiz))
+    println(imprimeRelatorioFuncionario.imprime(luiz))
 
 }
 

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02a9be6d-78ec-4af8-9040-23e869710847" name="Changes" comment="testes feitos com a classe funcionario e criação da propria">
+    <list default="true" id="02a9be6d-78ec-4af8-9040-23e869710847" name="Changes" comment="Criação class gerente e function imprime relatorio">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/Logavel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/Funcionario.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/Funcionario.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/Pessoa.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/testes/testPessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/testes/testFuncionarioAnalista.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/Gerente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/Gerente.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/testes/testFuncionarioAnalista.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/testes/testFuncionarioAnalista.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/testes/testFuncionarioGerente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinovation/testes/testFuncionarioGerente.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +17,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Enum" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -39,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TestFuncionarioAnalistaKt">
+  <component name="RunManager" selected="Kotlin.TestClienteKt">
     <configuration name="PessoaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinovation.PessoaKt" />
       <module name="dio-bank" />
@@ -54,6 +57,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestClienteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinovation.testes.TestClienteKt" />
+      <module name="dio-bank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestFuncionarioAnalistaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinovation.testes.TestFuncionarioAnalistaKt" />
       <module name="dio-bank" />
@@ -61,8 +71,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestFuncionarioGerenteKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinovation.testes.TestFuncionarioGerenteKt" />
+      <module name="dio-bank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestClienteKt" />
+        <item itemvalue="Kotlin.TestFuncionarioGerenteKt" />
         <item itemvalue="Kotlin.TestFuncionarioAnalistaKt" />
         <item itemvalue="Kotlin.TestClenteTipoEnumKt" />
         <item itemvalue="Kotlin.PessoaKt" />
@@ -134,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655172504794</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Criação class gerente e function imprime relatorio">
+      <created>1655252838105</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655252838105</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +183,7 @@
     <MESSAGE value="craição class enum e testes" />
     <MESSAGE value="instanciando enum pf e pj" />
     <MESSAGE value="testes feitos com a classe funcionario e criação da propria" />
-    <option name="LAST_COMMIT_MESSAGE" value="testes feitos com a classe funcionario e criação da propria" />
+    <MESSAGE value="Criação class gerente e function imprime relatorio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação class gerente e function imprime relatorio" />
   </component>
 </project>
